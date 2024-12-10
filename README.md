@@ -1,7 +1,7 @@
 # Final-Project---Team-15
 Project name - Alarm Clock Timer
 Team members - Feng Tai, Mincheol Kim, Ziyuan Chu
-Link to Project Demo Video - 
+Link to Project Demo Video - https://youtu.be/qcRieRde1qs?si=p5un-mbFgzh4Psfq
 Overview of the Project - This project is a clock function with the capabilites of a manipulatable clock and a stopwatch. The stopwatch is able to be started and paused at any time along with the ability to be reset. The clock is able to be incrimented by 1 hour, miniute, or second. It is also a 24 hour clock so after 59 minutes or seconds those values will return to zero and after 23 hours, it will return to zero as well. This is linked to a VGA where the time will be displayed.
 How to run our project - Open Vivado and download all the files. Program the FPGA with the overall top module and make sure it is connected to a VGA. 
 overview of the code structure:
